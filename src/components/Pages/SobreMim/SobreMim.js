@@ -6,7 +6,7 @@ function SobreMim(){
         <>
             <Header />
             <div className="paginaSobreMim">
-                <img className="eu" src="https://mail.google.com/mail/u/0?ui=2&ik=9ab4538f4a&attid=0.1&permmsgid=msg-a:r1825074562427467762&th=1847da67cea5c9d3&view=att&disp=safe&realattid=f_laiusb7v0" alt="foto"/>
+                <img className="eu" src="https://github.com/felipemelo10/meu-site/blob/main/src/components/Pages/SobreMim/Images/foto.png?raw=true" alt="foto"/>
                 <section className="SobreMim">
                     <h1 className="nome">Felipe Melo</h1>
                     <p className="subtitle"><b>Designer Gráfico Freelancer (Social Media e Marcas) e futuro Desenvolvedor Front-End</b></p>

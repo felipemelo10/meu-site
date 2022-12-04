@@ -8,7 +8,7 @@ function Currículo(){
             <div className="pagina">
                 <div className="esquerda">
                     <section className="sobre">
-                        <h1 className="title"> <img className="icones" src="https://mail.google.com/mail/u/0?ui=2&ik=9ab4538f4a&attid=0.3&permmsgid=msg-a:r-8963048264191425372&th=18490f66935af13a&view=att&disp=safe&realattid=f_lao7otvt4" alt="Dados Pessoais"></img> Luis Felipe Silva de Melo</h1>
+                        <h1 className="title"> <img className="icones" src="https://github.com/felipemelo10/meu-site/blob/main/src/components/Pages/Curr%C3%ADculo/images/usuario.png?raw=true" alt="Dados Pessoais"></img> Luis Felipe Silva de Melo</h1>
                         <ul>
                             <li>Idade: 19 anos</li>
                             <li>Email: felipemelodsg@gmail.com</li>
@@ -17,7 +17,7 @@ function Currículo(){
                     </section>
                 
                     <section className="educacao">
-                        <h1 className="title"> <img className="icones" src="https://mail.google.com/mail/u/0?ui=2&ik=9ab4538f4a&attid=0.4&permmsgid=msg-a:r-8963048264191425372&th=18490f66935af13a&view=att&disp=safe&realattid=f_lao7otv80" alt="Educação"></img> EDUCAÇÃO</h1>
+                        <h1 className="title"> <img className="icones" src="https://github.com/felipemelo10/meu-site/blob/main/src/components/Pages/Curr%C3%ADculo/images/educa%C3%A7%C3%A3o.png?raw=true" alt="Educação"></img> EDUCAÇÃO</h1>
                         <ul>
                             <li className="textoEducacao">
                                 <p className="datas">02/2022 - 2026   FACAPE - Petrolina, PE</p>
@@ -30,7 +30,7 @@ function Currículo(){
                         </ul>
                     </section>
                     <section className="experiencia">
-                        <h1 className="title"> <img className="icones" src="https://mail.google.com/mail/u/0?ui=2&ik=9ab4538f4a&attid=0.1&permmsgid=msg-a:r-6418403750563839688&th=18490f32c4907e74&view=att&disp=safe&realattid=f_lao7kayu0" alt="Experiência"></img> EXPERIÊNCIA</h1>
+                        <h1 className="title"> <img className="icones" src="https://github.com/felipemelo10/meu-site/blob/main/src/components/Pages/Curr%C3%ADculo/images/experiencia.png?raw=true" alt="Experiência"></img> EXPERIÊNCIA</h1>
                         <ul>
                             <li>
                                 <p className="datas">2018 - presente</p>
@@ -41,7 +41,7 @@ function Currículo(){
                     </section>
                 </div>
                 <section className="hard">
-                    <h1 className="title"> <img className="icones" src="https://mail.google.com/mail/u/0?ui=2&ik=9ab4538f4a&attid=0.5&permmsgid=msg-a:r-8963048264191425372&th=18490f66935af13a&view=att&disp=safe&realattid=f_lao7otvj2" alt="Hard Skills"></img> HARD SKILLS</h1>
+                    <h1 className="title"> <img className="icones" src="https://github.com/felipemelo10/meu-site/blob/main/src/components/Pages/Curr%C3%ADculo/images/hard.png?raw=true" alt="Hard Skills"></img> HARD SKILLS</h1>
                     <ul>
                         <li className="skills">Photoshop <div className="barras"><div className="barraPercent" id="psd"></div></div></li>
                         <li className="skills">Illustrator <div className="barras"><div className="barraPercent" id="ai"></div></div></li>
@@ -55,7 +55,7 @@ function Currículo(){
                     </ul>
                 </section>
                 <section className="soft">
-                    <h1 className="title"> <img className="icones" src="https://mail.google.com/mail/u/0?ui=2&ik=9ab4538f4a&attid=0.2&permmsgid=msg-a:r-8963048264191425372&th=18490f66935af13a&view=att&disp=safe&realattid=f_lao7otvp3" alt="Soft Skills"></img> SOFT SKILLS</h1>
+                    <h1 className="title"> <img className="icones" src="https://github.com/felipemelo10/meu-site/blob/main/src/components/Pages/Curr%C3%ADculo/images/soft.png?raw=true" alt="Soft Skills"></img> SOFT SKILLS</h1>
                     <ul>
                         <li className="skills">Autoconfiança <div className="barras" ><div className="barraPercent" id="autoconfiança"></div></div></li>
                         <li className="skills">Trabalho em equipe <div className="barras" ><div className="barraPercent" id="equipe"></div></div></li>
