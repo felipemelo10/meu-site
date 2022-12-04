@@ -1,0 +1,21 @@
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+}
+
+.ulCabeçalho{
+    display: flex;
+}
+
+.link{
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: rgb(255, 191, 52);
+}

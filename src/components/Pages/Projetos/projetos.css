@@ -1,0 +1,93 @@
+.titleProjects{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.textProjects{
+    color: white;
+    text-align: center;
+}
+
+.pageProjects{
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+.leftProjects{
+    display: flex;
+    flex-direction: column;
+}
+
+.rightProjects{
+    display: flex;
+    flex-direction: column;
+}
+
+.projetos{
+    border-radius: 20px;
+    margin: 20px;
+    vertical-align: middle;
+    border-style: none;
+    width: 400px;
+    height: 270px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.projetos:hover {
+    vertical-align: middle;
+    border-style: none;
+    width: 430px;
+    height: 290px;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    opacity: 50%;
+}
+
+.resultado{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.desc{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    opacity: 0;
+    color: white;
+    transition: all .35s;
+}
+
+.resultado:hover .desc{
+    opacity: 1;
+    font-size: 20px;
+}
+
+.listFerramentas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ferramentas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    color: black;
+    margin: 10px;
+    font-size: 13px;
+    width: 80px;
+    height: 30px;
+    background-image: linear-gradient(to right, rgb(255, 174, 52), rgb(255, 218, 52));
+    border-radius: 50px;
+}

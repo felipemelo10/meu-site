@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+*{
+    font-family: "Montserrat";
+}
+
+.esquerda{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 15px;
+}
+
+.pagina{
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.sobre{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.educacao{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.experiencia{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.hard{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+.barras{
+    display: flex;
+    background-color: rgb(75, 75, 75);
+    width: 150px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#psd{
+    display: flex;
+    width: 150px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#ai{
+    display: flex;
+    width: 80px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#html{
+    display: flex;
+    width: 70px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#css{
+    display: flex;
+    width: 80px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#react{
+    display: flex;
+    width: 50px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#js{
+    display: flex;
+    width: 60px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#py{
+    display: flex;
+    width: 60px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#uxui{
+    display: flex;
+    width: 30px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#eng{
+    display: flex;
+    width: 50px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+
+.soft{
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    justify-content: right;
+    text-align: left;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+#autoconfiança{
+    display: flex;
+    width: 120px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#equipe{
+    display: flex;
+    width: 90px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#criativo{
+    display: flex;
+    width: 150px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#comprometimento{
+    display: flex;
+    width: 120px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#proatividade{
+    display: flex;
+    width: 100px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#autonomia{
+    display: flex;
+    width: 125px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#dono{
+    display: flex;
+    width: 100px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#aprendizadoCont{
+    display: flex;
+    width: 130px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+#aprendizadoVeloc{
+    display: flex;
+    width: 130px;
+    height: 15px;
+    border-radius: 50px;
+}
+
+.textoEducacao{
+    margin-bottom: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.skills{
+    margin-bottom: 10px;
+}
+
+ul{
+    padding-left: 0;
+    margin: 0;
+}
+
+.title{
+    margin-bottom: 10px;
+    color: white;
+}
+
+.datas{
+    margin: 0;
+}
+
+.conteudo{
+    margin: 0;
+}
+
+.info{
+    margin: 0;
+}
+
+.barraPercent{
+    background-image: linear-gradient(to right, rgb(255, 174, 52), rgb(255, 218, 52));
+}

@@ -1,0 +1,86 @@
+.botoesContatos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.linksContatos{
+    color: white;
+}
+
+.linksContatos:hover{
+    cursor: pointer;
+    filter: brightness(1.2);
+}
+
+a{
+    text-decoration: none;
+}
+
+#whats{
+    background-color: rgb(52, 175, 35);
+    margin: 10px;
+    border: none;
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+}
+
+#insta{
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    margin: 10px;
+    border: none;
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+}
+
+#git{
+    background: linear-gradient(to top, #4E277B, #8241F9);
+    margin: 10px;
+    border: none;
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    position: relative;
+}
+
+#email{
+    background-color: #EA4335;
+    margin: 10px;
+    border: none;
+    border-radius: 50px;
+    width: 150px;
+    height: 50px;
+    position: relative
+}
+
+.copyButton{
+    border: none;
+    border-radius: 50px;
+    width: 270px;
+    height: 50px;
+    background-color: rgb(27, 27, 27);
+    margin-left: -50px;
+    text-align: right;
+    padding-right: 25px;
+}
+
+#copyWpp{
+    color:rgb(52, 175, 35);
+}
+
+#copyGit{
+    color: #8241F9;
+}
+
+#copyInsta{
+    color: #dc2743;
+}
+
+#copyEmail{
+    color:#EA4335;
+}
